@@ -14,7 +14,7 @@ namespace Ejemplo
     {
         public Form1()
         {
-            InitializeComponent();
+            
         }
 
     }
